@@ -1,1 +1,10 @@
-
+Flask
+Flask-Cors
+numpy
+pandas
+scikit-learn
+nltk
+tensorflow
+opencv-python
+librosa
+soundfile
