@@ -1,0 +1,21 @@
+========================================
+  Multi-Modal Chatbot Session Report
+========================================
+Date: 2025-04-03 12:40:24
+
+--- Intake Summary ---
+  (No intake data)
+
+--- Initial Assessment (Exp) ---
+  (No assessment data / Intake Skipped)
+
+--- Voice Emotion Log ---
+  (No voice emotions logged)
+
+--- Face Emotion Log ---
+  (No face emotions logged)
+
+--- Conversation Transcript ---
+  (No conversation)
+
+========================================
